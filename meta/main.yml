@@ -1,10 +1,10 @@
 ---
 galaxy_info:
-  role_name: ansible_role
+  role_name: ansible_takserver
   namespace: coopdevs
   author: Coopdevs
   description: An Ansible role to <>
-  license: GPL-3.0-only
+  license: Apache-2.0
   min_ansible_version: "2.1"
 
   platforms:
